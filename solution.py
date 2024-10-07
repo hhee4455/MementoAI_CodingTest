@@ -20,6 +20,6 @@ def solution(x, n):
         answer.append(x + x * i)
     return answer
 
-# 입출력 예시
+# 입출력
 # x, n = map(int, input().split())
 # print(solution(x, n))
